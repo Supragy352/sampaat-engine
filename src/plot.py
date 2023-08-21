@@ -5,7 +5,7 @@ time = []
 position = []
 velocity = []
 
-with open('simulation_data.csv', 'r') as file:
+with open('./build/simulation_data.csv', 'r') as file:
     reader = csv.reader(file)
     for row in reader:
         time.append(float(row[0]))
@@ -20,7 +20,7 @@ plt.legend()
 plt.title('Simulation Data')
 
 # Save the plot to an image file
-plt.savefig('simulation_plot.png')
+plt.savefig('./build/simulation_plot.png')
 
 # Close the plot to free up resources
 plt.close()

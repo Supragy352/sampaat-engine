@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+#define sim_file "./build/simulation_data.csv"
+
 void writeCSV(double time, double velocity, double acceleration) {
-    FILE *file = fopen("simulation_data.csv", "a");
+    FILE *file = fopen(sim_file, "a");
     if (file != NULL) {
         fprintf(file, "%.2f,%.2f,%.2f\n", time, velocity, acceleration);
         fclose(file);
@@ -17,7 +19,7 @@ int main(int argc, char const *argv[])
 
     float velocity = 10.0f;
     float position = 0.0f;
-    float force = 24.0f;
+    float force = 34.0f;
     float mass = 4.3f;
     float energy = 0.0f;
 

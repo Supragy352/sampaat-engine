@@ -373,11 +373,11 @@
 	"build_systems": [
 		{
 			"name": "BUILD",
-			"shell_cmd": "make clean && make"
+			"shell_cmd": "cd .. && make clean && make"
 		},
 		{
 			"name": "PLOT",
-			"shell_cmd": "make clean run plot"
+			"shell_cmd": "cd .. && make clean run plot"
 		}
 	],
 }
