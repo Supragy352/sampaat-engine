@@ -1,0 +1,12 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/matplot",
+      "main.cpp"
+    ],
+    "directory": "/home/callisto/Dev/C/physics",
+    "file": "/home/callisto/Dev/C/physics/main.cpp"
+  }
+]

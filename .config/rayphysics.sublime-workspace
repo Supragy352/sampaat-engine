@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"math",
+				"math.h"
+			],
+			[
+				"shell",
+				"\"shell_cmd\""
+			],
+			[
+				"naem",
+				"\"name\""
+			],
+			[
+				"rea",
+				"read"
+			],
+			[
+				"plo",
+				"plotVariable"
+			],
+			[
+				"plot",
+				"plotVariable"
+			],
+			[
+				"plott",
+				"plotter.h\""
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"cm",
+				"\"shell_cmd\""
+			],
+			[
+				"na",
+				"\"name\""
+			],
+			[
+				"stdio",
+				"stdio.h>"
+			],
+			[
+				"vec",
+				"Vector2"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"drawPix",
+				"DrawPixel"
+			],
+			[
+				"draw",
+				"DrawPixel"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"parti",
+				"particle"
+			],
+			[
+				"col",
+				"colX"
+			],
+			[
+				"color",
+				"Color"
+			],
+			[
+				"screen",
+				"screenHeight"
+			],
+			[
+				"Par",
+				"particle"
+			],
+			[
+				"struc",
+				"struct\tstruct"
+			],
+			[
+				"index",
+				"index_exclude_patterns"
+			],
+			[
+				"inde",
+				"index_exclude_patterns"
+			],
+			[
+				"exclude",
+				"folder_exclude_patterns"
+			],
+			[
+				"sett",
+				"\"settings\""
+			],
+			[
+				"rand",
+				"random.h\""
+			],
+			[
+				"Objec",
+				"OBJECT_COUNT"
+			],
+			[
+				"DrawRect",
+				"DrawRectangleV"
+			],
+			[
+				"Ob",
+				"Object"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"se",
+				"\"build_systems\""
+			],
+			[
+				"Draw",
+				"DrawRectangle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/callisto/Dev/C/physics/main.c",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "PLOT",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"PLOT",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"PLOT",
+				""
+			]
+		],
+		[
+			[
+				[
+					"BUILD",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"BUILD",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"renae",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"add folder",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"switch",
+				"Switch Project"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/callisto/Dev/C/physics",
+		"/home/callisto/Dev/C/physics/.config"
+	],
+	"file_history":
+	[
+		"/home/callisto/Dev/C/physics/simulation_plot.png",
+		"/home/callisto/Dev/C/physics/main.c",
+		"/home/callisto/Dev/C/physics/Makefile",
+		"/usr/include/math.h",
+		"/home/callisto/Dev/C/physics/plotterenv/lib/python3.11/site-packages/matplotlib/_mathtext.py",
+		"/home/callisto/Dev/C/physics/vectors.h",
+		"/home/callisto/Dev/C/physics/simulation_data.csv",
+		"/home/callisto/Dev/C/physics/.config/rayphysics.sublime-project",
+		"/home/callisto/Dev/C/physics/plot.py",
+		"/home/callisto/Dev/C/physics/data.txt",
+		"/home/callisto/Dev/C/physics/anim_plot.py",
+		"/home/callisto/Dev/C/physics/animation.mp4",
+		"/home/callisto/Dev/C/physics/plotter.h",
+		"/home/callisto/Dev/C/physics/main.cpp",
+		"/usr/include/c++/13.2.1/type_traits",
+		"/usr/include/matplot/matplot.h",
+		"/usr/include/matplot/util/type_traits.h",
+		"/home/callisto/Programs/raylib/src/raylib.h",
+		"/home/callisto/Programs/raylib/examples/core/core_3d_camera_first_person.c",
+		"/home/callisto/Dev/C/physics/particle.h",
+		"/usr/local/include/raylib.h",
+		"/home/callisto/Dev/C/physics/laws.h",
+		"/usr/lib/clang/15.0.7/include/stdbool.h",
+		"/home/callisto/Dev/C/physics/canvas_center.h",
+		"/home/callisto/Programs/raylib/examples/core/core_input_gamepad.c",
+		"/home/callisto/Programs/raylib/examples/core/core_basic_window.c",
+		"/home/callisto/Programs/raylib/parser/raylib_api.txt",
+		"/home/callisto/Dev/C/papers_please/papers_please.sublime-project",
+		"/home/callisto/Dev/C/papers_please/object.h",
+		"/home/callisto/Dev/C/papers_please/main.c",
+		"/home/callisto/Dev/C/papers_please/random.h",
+		"/home/callisto/Programs/raylib/examples/models/models_waving_cubes.c",
+		"/home/callisto/Programs/raylib/examples/models/models_first_person_maze.c",
+		"/usr/include/csinc.h",
+		"/usr/include/stdio.h",
+		"/home/callisto/Dev/C/papers_please/Makefile",
+		"/home/callisto/.config/sublime-text/Packages/C++/C++ Single File.sublime-build",
+		"/home/callisto/Programs/raylib/examples/papersplease/main.c",
+		"/home/callisto/Programs/raylib/examples/papersplease/Makefile",
+		"/home/callisto/Programs/raylib/examples/Makefile",
+		"/home/callisto/Programs/raylib/examples/core/core_basic_window"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"momentum",
+			"DrawPixelV",
+			"drawpixelv",
+			"clean"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"energy"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/callisto/Dev/C/physics/main.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///home/callisto/Dev/C/physics/main.c",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Powershell":
+	{
+		"height": 396.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 504.0
+	},
+	"output.ZSH":
+	{
+		"height": 742.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 324.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rayphysics.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"main.c"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"sim",
+				"simulation_data.csv"
+			],
+			[
+				"sublime",
+				".config/rayphysics.sublime-project"
+			],
+			[
+				"sublim",
+				".config/rayphysics.sublime-project"
+			],
+			[
+				"plot",
+				"plot.py"
+			],
+			[
+				"anima",
+				"animation.mp4"
+			],
+			[
+				"Mak",
+				"Makefile"
+			],
+			[
+				"data",
+				"data.txt"
+			],
+			[
+				"proe",
+				".config/rayphysics.sublime-project"
+			],
+			[
+				"la",
+				"laws.h"
+			],
+			[
+				".txt",
+				"parser/raylib_api.txt"
+			],
+			[
+				"modelsmaze",
+				"examples/models/models_first_person_maze.c"
+			],
+			[
+				"basic win",
+				"core/core_basic_window.c"
+			],
+			[
+				"corebasic",
+				"core/core_basic_window"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dev/C/papers_please/papers_please.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
